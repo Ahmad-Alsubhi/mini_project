@@ -8,4 +8,4 @@ https://github.com/Ahmad-Alsubhi
 
 
 
-actual_vs_predicted.png
+<img src="actual_vs_predicted.png" alt="وصف الصورة" width="400">
